@@ -1,0 +1,25 @@
+name: tds_movye_app
+description: Base app that contains main class of Movye App.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.5 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  core:
+    path: packages/core
+  dependencies:
+    path: packages/dependencies
+  identity:
+    path: packages/modules/identity
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
