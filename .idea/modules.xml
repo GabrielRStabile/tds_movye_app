@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/tds_movye_app.iml" filepath="$PROJECT_DIR$/tds_movye_app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/tds_movye_app_android.iml" filepath="$PROJECT_DIR$/android/tds_movye_app_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/packages/core/melos_core.iml" filepath="$PROJECT_DIR$/app/packages/core/melos_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/packages/dependencies/melos_dependencies.iml" filepath="$PROJECT_DIR$/app/packages/dependencies/melos_dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/packages/design_system/melos_design_system.iml" filepath="$PROJECT_DIR$/app/packages/design_system/melos_design_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/packages/modules/identity/melos_identity.iml" filepath="$PROJECT_DIR$/app/packages/modules/identity/melos_identity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/melos_tds_movye_app.iml" filepath="$PROJECT_DIR$/app/melos_tds_movye_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_tds_movye_app.iml" filepath="$PROJECT_DIR$/melos_tds_movye_app.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,8 @@
+name: tds_movye_app
+
+packages:
+  - app
+  - app/packages/core
+  - app/packages/dependencies
+  - app/packages/design_system
+  - app/packages/modules/identity
