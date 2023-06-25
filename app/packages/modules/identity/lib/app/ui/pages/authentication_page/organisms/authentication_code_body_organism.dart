@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:core/app/micro_core_utils.dart';
 import 'package:dependencies/dependencies.dart';
-import 'package:design_system/ui/atoms/buttom_atom.dart';
+import 'package:design_system/ui/atoms/button_atom.dart';
 import 'package:flutter/material.dart';
 import 'package:identity/app/services/protocols/iauthentication_store.dart';
 

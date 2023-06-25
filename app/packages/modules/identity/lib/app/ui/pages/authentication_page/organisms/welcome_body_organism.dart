@@ -1,5 +1,5 @@
 import 'package:core/app/micro_core_utils.dart';
-import 'package:design_system/ui/atoms/buttom_atom.dart';
+import 'package:design_system/ui/atoms/button_atom.dart';
 import 'package:design_system/ui/atoms/movye_logo_atom.dart';
 import 'package:flutter/material.dart';
 

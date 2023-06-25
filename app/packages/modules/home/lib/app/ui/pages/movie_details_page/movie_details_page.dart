@@ -1,5 +1,5 @@
 import 'package:dependencies/dependencies.dart';
-import 'package:design_system/ui/atoms/buttom_atom.dart';
+import 'package:design_system/ui/atoms/button_atom.dart';
 import 'package:flutter/material.dart';
 import 'package:home/app/domain/entities/movie_entity.dart';
 
