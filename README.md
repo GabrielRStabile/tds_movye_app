@@ -1,5 +1,5 @@
 <center><div style="display: block"><img src="https://i.imgur.com/48kRDkl.png" width="300"/></div>
-<img src="https://www.utfpr.edu.br/icones/cabecalho/logo-utfpr/@@images/efcf9caf-6d29-4c24-8266-0b7366ea3a40.png" width="130" /></div></center>
+<img src="https://i.imgur.com/7FeZuKG.png" width="130" /></div></center>
 
 <center><h1>Movye App</h1></center>
 Movye é um aplicativo de streaming de filmes e séries que permite que os usuários assistam a conteúdos gratuitos em seu dispositivo móvel. O projeto está sendo desenvolvimento durante a disciplina de Técnologia em Desenvolvimento de Sistemas na Universidade Técnológica Federal do Paraná Campus Medianeira.
